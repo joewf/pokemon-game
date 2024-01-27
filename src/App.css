@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    /*background: linear-gradient(to bottom, #e94e77, #fdd835); /* Gradient from Pokéball Red to Electric Pikachu Yellow */
+    background: url('./images/pokemon-simple-background-1920x1080-84862.jpg');
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    margin: 1%;
+    /* margin-left: 2%; */
+}
+
+.title-score-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title-div {
+    margin-left: 1rem;
+}
